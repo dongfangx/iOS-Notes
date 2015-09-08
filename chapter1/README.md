@@ -6,3 +6,4 @@
 4. 内存管理
 5. Block
 6. Foundation框架
+7. GCD

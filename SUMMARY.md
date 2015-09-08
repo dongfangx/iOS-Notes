@@ -7,6 +7,8 @@
    * [ARC](chapter1/c1-3 arc.md)
    * [Block](chapter1/c1-4 block.md)
    * [Foundation](chapter1/c1-5 foundation.md)
+   * [GCD](chapter1/c1-6 gcd.md)
+   
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
    * [UILabel](chapter2/c2-2 uilabel.md)
